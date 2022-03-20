@@ -9,6 +9,5 @@ If you are curious about what is Elixir and how does it look like, here you will
 
 ## Resources
 
-+ [Elixir docs](https://hexdocs.pm/elixir/Kernel.html)
-+ [Elixir package manager](https://hex.pm/)
++ [Elixir docs](https://elixir-lang.org/docs.html)
 + [Asdf tool version manager](https://github.com/asdf-vm/asdf)
