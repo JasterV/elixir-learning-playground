@@ -1,3 +1,5 @@
+# Tried default parameters for the first time
+
 defmodule Concat do
   def join(a, b, sep \\ " ") do
     a <> sep <> b

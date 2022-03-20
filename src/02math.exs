@@ -1,3 +1,5 @@
+# My first private function inside a module
+
 defmodule Math do
   def sum(a, b) do
     do_sum(a, b)

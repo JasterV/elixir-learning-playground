@@ -1,3 +1,6 @@
+# My first pattern matching inside function definitions
+# This starts to get interesting
+
 defmodule Math do
   def div(_, 0) do
     {:error, "Cannot divide by zero"}

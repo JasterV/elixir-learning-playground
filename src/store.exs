@@ -1,3 +1,7 @@
+# Here we put in practice some learnings on tuples, maps
+# Pattern matching, conditionals and guards,
+# as well as basic error handling using pair tuples
+
 defmodule GroceryStore do
   defguard is_positive(term) when is_integer(term) and term > 0
 

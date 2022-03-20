@@ -1,3 +1,5 @@
+# The pipe operator seems to be an awesome and super powerful feature of this language
+
 defmodule PipeTest do
   # Private functions
   defp square(x) when is_number(x), do: x * x
