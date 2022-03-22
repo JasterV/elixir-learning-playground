@@ -1,6 +1,6 @@
-# Here we put in practice some learnings on tuples, maps
-# Pattern matching, conditionals and guards,
-# as well as basic error handling using pair tuples
+# Go back and look at the groceries list map you created after lesson "Operations on Data Structures".
+# Write a function that can take a map and insert grocery items into it.
+# Then, write another function that can remove grocery items from within a given map.
 
 defmodule GroceryStore do
   defguard is_positive(term) when is_integer(term) and term > 0
