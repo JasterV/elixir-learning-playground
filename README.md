@@ -11,3 +11,4 @@ If you are curious about what is Elixir and how does it look like, here you will
 
 + [Elixir docs](https://elixir-lang.org/docs.html)
 + [Asdf tool version manager](https://github.com/asdf-vm/asdf)
++ [Elixir school](https://elixirschool.com/en)
